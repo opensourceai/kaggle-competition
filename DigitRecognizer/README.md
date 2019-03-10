@@ -14,7 +14,7 @@
 
 |翻译项目原地址|作者|本库地址|
 |---|---|---|
-|[introduction-to-cnn-keras-0-997-top-6](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)|[Yassine Ghouzam](https://www.kaggle.com/yassineghouzam)|[GO](DigitRecognizer\introduction-to-cnn-keras-0-997-top-6.ipynb)|
+|[introduction-to-cnn-keras-0-997-top-6](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)|[Yassine Ghouzam](https://www.kaggle.com/yassineghouzam)|[GO](DigitRecognizer/introduction-to-cnn-keras-0-997-top-6.ipynb)|
 | --- | --- | --- |
 
 ## 介绍
