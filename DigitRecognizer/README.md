@@ -2,7 +2,7 @@
 
 > Learn computer vision fundamentals with the famous MNIST data
 
-**翻译的朋友们请先[【Fork】](https://github.com/OpenSourceAI/kaggle-competition-details/fork)本库，在自己的库中当前文件夹下面，以原文件名加【-中文】的方式命名【新建文件】（例如：原本文件名：introduction-to-cnn-keras-0-997-top-6.ipynb，新建文件名即：introduction-to-cnn-keras-0-997-top-6-中文.ipynb，完成翻译整理后进行`Pull Request`，经过其他朋友代码审查，会合并到本库，同时你们的贡献也会被记录在此页面。**
+**翻译的朋友们请先[【Fork】](https://github.com/OpenSourceAI/kaggle-competition-details/fork)本库，在自己的库中当前文件夹下面，以原文件名加【-中文】的方式命名【新建文件】（例如：原本文件名：introduction-to-cnn-keras-0-997-top-6.ipynb，新建文件名即：introduction-to-cnn-keras-0-997-top-6-中文.ipynb），完成翻译整理后进行`Pull Request`，经过其他朋友代码审查，会合并到本库，同时你们的贡献也会被记录在此页面。**
 
 >**在翻译整理的过程中请尽量深入理解文章，并提出自己的理解，不要只是为了翻译而翻译**
 
