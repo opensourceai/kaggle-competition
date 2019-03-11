@@ -2,7 +2,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/OpenSourceAI/kaggle-competition-details.svg)](https://github.com/OpenSourceAI/kaggle-competition-details/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub issues by-label](https://img.shields.io/github/issues/OpenSourceAI/kaggle-competition-details/项目.svg)](https://github.com/OpenSourceAI/kaggle-competition-details/issues?q=is%3Aissue+label%3A%E9%A1%B9%E7%9B%AE+is%3Aopen)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/OpenSourceAI/kaggle-competition-details.svg)](https://github.com/OpenSourceAI/kaggle-competition-details/issues?q=is%3Aissue+is%3Aclosed)
-[![launch](https://img.shields.io/badge/launch-Jupyter-red.svg)](https://mybinder.org/v2/gh/git@github.com:OpenSourceAI/kaggle-competition-details.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSourceAI/kaggle-competition-details/master)
 >在本项目中会翻译整理一下Kaggle比赛项目的资料，欢迎有兴趣的朋友一起加入。
 
 ----
