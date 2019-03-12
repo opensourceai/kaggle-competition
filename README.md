@@ -1,6 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSourceAI/kaggle-competition-details/master)
 [![GitHub](https://img.shields.io/github/license/OpenSourceAI/kaggle-competition-details.svg)](https://github.com/OpenSourceAI/kaggle-competition-details/blob/master/LICENSE)
-
 [![GitHub issues](https://img.shields.io/github/issues/OpenSourceAI/kaggle-competition-details.svg)](https://github.com/OpenSourceAI/kaggle-competition-details/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub issues by-label](https://img.shields.io/github/issues/OpenSourceAI/kaggle-competition-details/项目.svg)](https://github.com/OpenSourceAI/kaggle-competition-details/issues?q=is%3Aissue+label%3A%E9%A1%B9%E7%9B%AE+is%3Aopen)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/OpenSourceAI/kaggle-competition-details.svg)](https://github.com/OpenSourceAI/kaggle-competition-details/issues?q=is%3Aissue+is%3Aclosed)
