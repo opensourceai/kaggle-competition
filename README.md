@@ -13,7 +13,6 @@
 |比赛名称|翻译整理|
 |---|---|
 |Digit Recognizer|[DigitRecognizer](DigitRecognizer)|
-|PUBGFinishPlacementPrediction|[PUBGFinishPlacementPrediction](PUBGFinishPlacementPrediction)|
 | --- 待续 --- | --- 待续 ---|
 
 ## 项目贡献者
