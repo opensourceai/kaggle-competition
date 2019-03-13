@@ -1,15 +1,18 @@
 ---
 name: New Project
-about: 申请新的项目
-title: "[项目]"
-labels: 项目
+about: Apply for a new project
+title: "[Project]"
+labels: project
 assignees: ChenQuan, lqm-24, onexming
 
 ---
 
-**项目描述：**
+## Project description：
 
 
-**项目地址：**
+## Project link：
 
-**需整理或翻译的地址：**
+## kernel link：
+- link 1
+- link 2
+- .........
