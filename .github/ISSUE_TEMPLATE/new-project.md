@@ -3,7 +3,7 @@ name: New Project
 about: Apply for a new project
 title: "[Project]"
 labels: project
-assignees: ChenQuan, lqm-24, onexming
+assignees: ChenQuan
 
 ---
 
