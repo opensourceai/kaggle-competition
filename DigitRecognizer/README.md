@@ -20,7 +20,8 @@
 |翻译项目原地址|作者|本库地址|翻译后版本|
 |---|---|---|---|
 |[introduction-to-cnn-keras-0-997-top-6](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)|[Yassine Ghouzam](https://www.kaggle.com/yassineghouzam)|[GO](introduction-to-cnn-keras-0-997-top-6.ipynb)|[GO](introduction-to-cnn-keras-0-997-top-6-中文.ipynb)|
-| --- | --- | --- |
+| [welcome-to-deep-learning-cnn-99](https://www.kaggle.com/toregil/welcome-to-deep-learning-cnn-99) | [Peter Grenholm](https://www.kaggle.com/toregil) | [GO](welcome-to-deep-learning-cnn-99.ipynb) |[GO](welcome-to-deep-learning-cnn-99.ipynb)|
+| --- | --- | --- | --- |
 
 ## 介绍
 
