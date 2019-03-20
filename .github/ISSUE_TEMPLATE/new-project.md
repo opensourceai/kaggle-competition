@@ -1,15 +1,18 @@
 ---
 name: New Project
-about: 申请新的项目
-title: ''
-labels: 项目
-assignees: ChenQuan, onexming, lqm-24
+about: Apply for a new project
+title: "[Project]"
+labels: project
+assignees: ChenQuan
 
 ---
 
-项目描述：
+## Project description：
 
 
-项目地址：
+## Project link：
 
-需整理或翻译的地址：
+## kernel link：
+- link 1
+- link 2
+- .........
