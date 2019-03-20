@@ -7,14 +7,19 @@
 >**在翻译整理的过程中请尽量深入理解文章，并提出自己的理解，不要只是为了翻译而翻译**
 
 >**如果会其他语言的同学也欢迎翻译成其他语言，例如：俄语、韩语、日语等等**
+## 贡献者：
+
+- [@ChenQuan](https://github.com/ChenQuan)
+- [@lqm-24](https://github.com/lqm-24)
+
 
 ## 比赛：
 
 地址：[https://www.kaggle.com/c/digit-recognizer](https://www.kaggle.com/c/digit-recognizer)
 
-|翻译项目原地址|作者|本库地址|
-|---|---|---|
-|[introduction-to-cnn-keras-0-997-top-6](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)|[Yassine Ghouzam](https://www.kaggle.com/yassineghouzam)|[GO](introduction-to-cnn-keras-0-997-top-6.ipynb)|
+|翻译项目原地址|作者|本库地址|翻译后版本|
+|---|---|---|---|
+|[introduction-to-cnn-keras-0-997-top-6](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)|[Yassine Ghouzam](https://www.kaggle.com/yassineghouzam)|[GO](introduction-to-cnn-keras-0-997-top-6.ipynb)|[GO](introduction-to-cnn-keras-0-997-top-6-中文.ipynb)|
 | --- | --- | --- |
 
 ## 介绍
