@@ -2,6 +2,10 @@
 
 >Can you predict the battle royale finish of PUBG Players?
 
+## 贡献者：
+
+- [@ChenQuan](https://github.com/ChenQuan)
+
 
 ## 比赛：
 
