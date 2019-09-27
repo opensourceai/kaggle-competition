@@ -10,6 +10,8 @@
 |---|---|
 |Digit Recognizer|[DigitRecognizer](DigitRecognizer)|
 |PUBGFinishPlacementPrediction|[PUBGFinishPlacementPrediction](PUBGFinishPlacementPrediction)|
+|House Prices: Advanced Regression Techniques|[House Prices: Advanced Regression Techniques](House-Prices-Advanced-Regression-Techniques)|
+|Pokemon- Weedle's Cave|[Pokemon- Weedle's Cave](pokemon-challenge)|
 | --- 待续 --- | --- 待续 ---|
 
 ## 项目贡献者
