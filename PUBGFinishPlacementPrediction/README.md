@@ -9,7 +9,7 @@
 
 |翻译项目原地址|作者|本库地址|翻译|
 |---|---|---|---|
-|[eda-is-fun](https://www.kaggle.com/deffro/eda-is-fun)|[Dimitrios Effrosynidis](https://www.kaggle.com/deffro)|[GO](eda-is-fun.ipynb)|[GO](eda-is-fun-中文.ipynb)|
+|[eda-is-fun](https://www.kaggle.com/deffro/eda-is-fun)|[Dimitrios Effrosynidis](https://www.kaggle.com/deffro)|[GO](eda-is-fun.ipynb)|[GO](eda-is-fun-cn.ipynb)|
 | --- | --- | --- | --- |
 
 ## 介绍
