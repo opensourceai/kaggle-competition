@@ -1,4 +1,4 @@
-# House Prices: Advanced Regression Techniques #10
+# House Prices: Advanced Regression Techniques
 
 > Predict sales prices and practice feature engineering, RFs, and gradient boosting
 
@@ -19,7 +19,7 @@
 
 |翻译项目原地址|作者|本库地址|翻译后版本|
 |---|---|---|---|
-|[COMPREHENSIVE DATA EXPLORATION WITH PYTHON](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)|[Pedro Marcelino](https://www.kaggle.com/pmarcelino)|[GO](data-sciencetutorial-for-beginners.ipynb)|[GO](data-sciencetutorial-for-beginners-cn.ipynb)|
+|[COMPREHENSIVE DATA EXPLORATION WITH PYTHON](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)|[Pedro Marcelino](https://www.kaggle.com/pmarcelino)|[GO](comprehensive-data-exploration-with-python.ipynb)|[GO](comprehensive-data-exploration-with-python-cn.ipynb)|
 | --- | --- | --- | --- |
 
 
