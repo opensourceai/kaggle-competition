@@ -14,6 +14,9 @@
 |翻译项目原地址|作者|本库地址|翻译|
 |---|---|---|---|
 |[Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)|[Anisotropic](https://www.kaggle.com/arthurtok)|[GO](introduction-to-ensembling-stacking-in-python.ipynb)|[GO](introduction-to-ensembling-stacking-in-python-cn.ipynb)|
+|[Titanic Data Science Solutions](https://www.kaggle.com/startupsci/titanic-data-science-solutions)|[Manav Sehgal](https://www.kaggle.com/startupsci)|[GO]()|[GO]()|
+|[ A Data Science Framework: To Achieve 99% Accuracy](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)|[LD Freeman](https://www.kaggle.com/ldfreeman3)|[GO](a-data-science-framework-to-achieve-99-accuracy.ipynb)|[GO](a-data-science-framework-to-achieve-99-accuracy-cn.ipynb)|
+|[Titanic best working Classifier](https://www.kaggle.com/sinakhorami/titanic-best-working-classifier)|[Sina](https://www.kaggle.com/sinakhorami)|[GO](titanic-best-working-classifier.ipynb)|[GO](titanic-best-working-classifier-cn.ipynb)|
 | --- | --- | --- | --- |
 
 ## 介绍
